@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishambardutt
-- 👀 I’m interested in writeing  code
+- 👀 I’m interested in writing  code
 - 🌱 I’m currently learning latest web technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://github.com/vishambardutt
